@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+data/proposals.json
+assets/logo.png
+assets/fonts/
+assets/template.docx
+*.docx
+!Referencias/*.docx
